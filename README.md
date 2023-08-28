@@ -56,7 +56,7 @@
 | Depression_NoText.webp | ![Depression_NoText.webp](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Depression_NoText.webp)  |
 | Depression.webp | ![Depression.webp](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Depression.webp)  |
 | DJDesktop.jpg | ![DJDesktop.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/DJDesktop.jpg)  |
-| Dragon.jpg | ![Dragon.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/5mok8gnegs2a1.pDragon.jpgng)  |
+| Dragon.jpg | ![Dragon.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Dragon.jpg)  |
 | eqp1mhuvi5fa1.png | ![eqp1mhuvi5fa1.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/eqp1mhuvi5fa1.png)  |
 | Equanimity_NoInglishText.webp | ![Equanimity_NoInglishText.webp](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Equanimity_NoInglishText.webp)  |
 | Equanimity_NoText.webp | ![Equanimity_NoText.webp](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Equanimity_NoText.webp)  |
