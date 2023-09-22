@@ -21,11 +21,15 @@
 | AnimeShop.png | ![AnimeShop.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/AnimeShop.png) |
 | AnimeWarrior.jpg | ![AnimeWarrior.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/AnimeWarrior.jpg) |
 | ArchDistroLogo.png | ![ArchDistroLogo.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/ArchDistroLogo.png) |
+| ArchGirlBlakBackground.jpg | ![ArchGirlBlakBackground.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/ArchGirlBlakBackground.jpg) |
+| ArchGirlWhiteBackground.jpg | ![ArchGirlWhiteBackground.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/ArchGirlWhiteBackground.jpg) |
 | ArchLogo.png | ![ArchLogo.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/ArchLogo.png) |
 | AstronautColorfull.jpg | ![AstronautColorfull.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/AstronautColorfull.jpg) |
 | AstronautColorfull2.png | ![AstronautColorfull2.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/AstronautColorfull2.png) |
 | AstronautRedPlanet.jpg | ![AstronautRedPlanet.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/AstronautRedPlanet.jpg) |
+| AutomTree.png | ![AutomTree.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/AutomTree.png) |
 | B&WAnimeGirl.png | ![B&WAnimeGirl.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/B&WAnimeGirl.png) |
+| Bedroom.png | ![Bedroom.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Bedroom.png) |
 | Berserk.png | ![Berserk.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Berserk.png) |
 | BerserkCyberPunk.png | ![BerserkCyberPunk.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/BerserkCyberPunk.png) |
 | Bird.png | ![Bird.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Bird.png) |
@@ -59,6 +63,7 @@
 | Equanimity_NoText.webp | ![Equanimity_NoText.webp](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Equanimity_NoText.webp) |
 | Evangelion.jpg | ![Evangelion.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Evangelion.jpg) |
 | EvangelionSynthwave.png | ![EvangelionSynthwave.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/EvangelionSynthwave.png) |
+| EvangelionWhite.png | ![EvangelionWhite.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/EvangelionWhite.png) |
 | FlotingCity.jpg | ![FlotingCity.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/FlotingCity.jpg) |
 | FlyingBoat.png | ![FlyingBoat.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/FlyingBoat.png) |
 | FlyingWhale.jpg | ![FlyingWhale.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/FlyingWhale.jpg) |
@@ -108,12 +113,15 @@
 | LakeCity.jpg | ![LakeCity.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/LakeCity.jpg) |
 | LegendaryCave.jpg | ![LegendaryCave.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/LegendaryCave.jpg) |
 | LegendarySword.jpg | ![LegendarySword.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/LegendarySword.jpg) |
+| LinuxWaifu_Background.png | ![LinuxWaifu_Background.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/LinuxWaifu_Background.png) |
+| LinuxWaifu_NotBackground.png | ![LinuxWaifu_NotBackground.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/LinuxWaifu_NotBackground.png) |
 | Lonliness.png | ![Lonliness.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Lonliness.png) |
 | Lonliness_NoText.jpg | ![Lonliness_NoText.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Lonliness_NoText.jpg) |
 | LucyMoonCyberPunk.png | ![LucyMoonCyberPunk.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/LucyMoonCyberPunk.png) |
 | MagicTree.jpg | ![MagicTree.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/MagicTree.jpg) |
 | MakimaBirds.png | ![MakimaBirds.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/MakimaBirds.png) |
 | MangaBoy.webp | ![MangaBoy.webp](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/MangaBoy.webp) |
+| Metaphor.jpeg | ![Metaphor.jpeg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Metaphor.jpeg) |
 | Mountain.jpg | ![Mountain.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Mountain.jpg) |
 | Mountain.png | ![Mountain.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Mountain.png) |
 | MtTsurugiDay.png | ![MtTsurugiDay.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/MtTsurugiDay.png) |
@@ -138,6 +146,7 @@
 | PlanetsDraw.jpg | ![PlanetsDraw.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/PlanetsDraw.jpg) |
 | PurpleMountain.jpg | ![PurpleMountain.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/PurpleMountain.jpg) |
 | PurpleMountains.jpg | ![PurpleMountains.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/PurpleMountains.jpg) |
+| Red&White.jpg | ![Red&White.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Red&White.jpg) |
 | RedAndBlue.jpg | ![RedAndBlue.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/RedAndBlue.jpg) |
 | RedCiberpunkCity.jpg | ![RedCiberpunkCity.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/RedCiberpunkCity.jpg) |
 | RedCity.webp | ![RedCity.webp](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/RedCity.webp) |
@@ -158,6 +167,8 @@
 | RiverVillage.png | ![RiverVillage.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/RiverVillage.png) |
 | Rocket.jpg | ![Rocket.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Rocket.jpg) |
 | Savana.jpg | ![Savana.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Savana.jpg) |
+| Sea.png | ![Sea.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Sea.png) |
+| SekiroMonkey.png | ![SekiroMonkey.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/SekiroMonkey.png) |
 | Ship.jpg | ![Ship.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Ship.jpg) |
 | SmileGirl.jpg | ![SmileGirl.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/SmileGirl.jpg) |
 | SnowCastel.jpg | ![SnowCastel.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/SnowCastel.jpg) |
