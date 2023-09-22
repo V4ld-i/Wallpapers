@@ -1,6 +1,7 @@
 # **Hello there!**
 ## Here are all the wallpapers, use by me on my computers
 ### Most of them from reddit posts.
+### Some are from https://www.pixiv.net/en/users/60562229
 
 | name | Wallpaper |
 | --- | ----------- |
