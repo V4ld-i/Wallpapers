@@ -1,7 +1,6 @@
 # **Hello there!**
 ## Here are all the wallpapers, use by me on my computers
 ### Most of them from reddit posts.
-### Some are from https://www.pixiv.net/en/users/60562229
 
 | name | Wallpaper |
 | --- | ----------- |
@@ -25,6 +24,7 @@
 | ArchGirlBlakBackground.jpg | ![ArchGirlBlakBackground.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/ArchGirlBlakBackground.jpg) |
 | ArchGirlWhiteBackground.jpg | ![ArchGirlWhiteBackground.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/ArchGirlWhiteBackground.jpg) |
 | ArchLogo.png | ![ArchLogo.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/ArchLogo.png) |
+| ArchWaifu.png | ![ArchWaifu.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/ArchWaifu.png) |
 | AstronautColorfull.jpg | ![AstronautColorfull.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/AstronautColorfull.jpg) |
 | AstronautColorfull2.png | ![AstronautColorfull2.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/AstronautColorfull2.png) |
 | AstronautRedPlanet.jpg | ![AstronautRedPlanet.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/AstronautRedPlanet.jpg) |
@@ -114,6 +114,7 @@
 | LakeCity.jpg | ![LakeCity.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/LakeCity.jpg) |
 | LegendaryCave.jpg | ![LegendaryCave.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/LegendaryCave.jpg) |
 | LegendarySword.jpg | ![LegendarySword.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/LegendarySword.jpg) |
+| LightPinkMountain.png | ![LightPinkMountain.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/LightPinkMountain.png) |
 | LinuxWaifu_Background.png | ![LinuxWaifu_Background.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/LinuxWaifu_Background.png) |
 | LinuxWaifu_NotBackground.png | ![LinuxWaifu_NotBackground.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/LinuxWaifu_NotBackground.png) |
 | Lonliness.png | ![Lonliness.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Lonliness.png) |
@@ -135,6 +136,7 @@
 | NightRiver.png | ![NightRiver.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/NightRiver.png) |
 | NightSky.png | ![NightSky.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/NightSky.png) |
 | NightWaterfall.png | ![NightWaterfall.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/NightWaterfall.png) |
+| NoMansSky.png | ![NoMansSky.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/NoMansSky.png) |
 | Nothing.jpg | ![Nothing.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Nothing.jpg) |
 | Office.jpg | ![Office.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/Office.jpg) |
 | OldCult.jpg | ![OldCult.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/OldCult.jpg) |
@@ -200,4 +202,5 @@
 | eqp1mhuvi5fa1.png | ![eqp1mhuvi5fa1.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/eqp1mhuvi5fa1.png) |
 | makima.jpg | ![makima.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/makima.jpg) |
 | mills.jpg | ![mills.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/mills.jpg) |
+| monster_hunter_rico.jpg | ![monster_hunter_rico.jpg](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/monster_hunter_rico.jpg) |
 | synthwave.png | ![synthwave.png](https://github.com/V4ld-i/Wallpapers/blob/main/Wallpaper/synthwave.png) |
